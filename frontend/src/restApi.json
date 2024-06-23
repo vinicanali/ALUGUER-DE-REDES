@@ -1,0 +1,174 @@
+{
+    "data": [
+        {"ourQualities" : [
+            {
+                "id": 1,
+                "image": "./goalkeeper-chasing-the-ball-svgrepo-com (1).svg",
+                "title": "REDES CONFIÁVEIS",
+                "description": "Contamos com uma seleção rigorosa de goleiros altamente capacitados e avaliados, garantindo profissionais confiáveis e experientes para suas partidas. Seja qual for o nível do jogo, nossos goleiros estão prontos para proteger a baliza com excelência." 
+            },
+            {
+                "id": 2,
+                "image": "./event-available-svgrepo-com.svg",
+                "title": "RESERVA SIMPLES",
+                "description": "Facilite a organização de sua partida com nosso sistema de reservas intuitivo. Encontre e reserve goleiros disponíveis em poucos cliques, com confirmação instantânea e atualizações em tempo real, tornando o agendamento prático e sem complicações." 
+            },
+            {
+                "id": 3,
+                "image": "./support-svgrepo-com.svg",
+                "title": "SUPORTE ÁGIL",
+                "description": "Nosso suporte ao cliente está sempre disponível para auxiliar em qualquer necessidade. Oferecemos respostas rápidas e soluções eficientes para garantir que sua experiência com nossos serviços seja a melhor possível, do início ao fim." 
+            }
+        ],
+        "dishes": [
+            {
+                "id": 1,
+                "image": "./IMG_5656.jpg",
+                "title": "UM"
+                
+            },
+            {
+                "id": 2,
+                "image": "./IMG_5652.jpg",
+                "title": "DOIS"
+                 
+            },
+            {
+                "id": 3,
+                "image": "./IMG_5649.jpeg",
+                "title": "TRÊS"
+                 
+            },
+            {
+                "id": 4,
+                "image": "./IMG_5651.jpg",
+                "title": "QUATRO"
+                 
+            },
+            {
+                "id": 5,
+                "image": "./IMG_5657 (1).jpg",
+                "title": "CINCO"
+                 
+            },
+            {
+                "id": 6,
+                "image": "./IMG_5658.jpg",
+                "title": "SEIS"
+                
+            },
+            {
+                "id": 7,
+                "image": "./IMG_5653.jpg",
+                "title": "SETE"
+                
+            },
+            {
+                "id": 8,
+                "image": "./IMG_5654.jpg",
+                "title": "OITO"
+                
+            }
+        ],
+        "team": [
+            {
+                "id": 1,
+                "image": "./IMG_56871.jpg",
+                "name": "VINÍCIUS",
+                "designation": "Redes e Idealizador"
+            },
+            {
+                "id": 2,
+                "image": "./IMG_5684111.jpg",
+                "name": "CANALI",
+                "designation": "Web Designer"
+            },
+            {
+                "id": 3,
+                "image": "./IMG_568511.jpg",
+                "name": "DOS",
+                "designation": "Programador"
+            },
+            {
+                "id": 4,
+                "image": "./IMG_56861.jpg",
+                "name": "SANTOS",
+                "designation": "Gerente de Projeto"
+            }
+        ],
+        "testimonials": [
+            {
+                "id": 1,
+                "image": "./review1.png",
+                "description": "Muito interessante a idéia!",
+                "rating": 4,
+                "userName": "Vinicias"
+            },
+            {
+                "id": 2,
+                "image": "./review2.png",
+                "description": "Acho que vou usar hein",
+                "rating": 4.5,
+                "userName": "Canalia"
+            },
+            {
+                "id": 3,
+                "image": "./review3.png",
+                "description": "Po, ja sou fã!!!!",
+                "rating": 5,
+                "userName": "Sanctus"
+            }
+        ],
+        "who_we_are": [
+            {
+                "id": 1,
+                "number": "8",
+                "title": "Redes"
+            },
+            {
+                "id": 2,
+                "number": "10",
+                "title": "Anos de Experiência"
+            },
+            {
+                "id": 3,
+                "number": "6",
+                "title": "Cidades Atendidas"
+            },
+            {
+                "id": 4,
+                "number": "24/7",
+                "title": "Disponibilidade"
+            }
+        ],
+        "navbarLinks": [
+            {
+                "id": 1,
+                "title": "HOME",
+                "link": "heroSection"
+            },
+            {
+                "id": 2,
+                "title": "SOBRE NÓS",
+                "link": "about"
+            },
+            {
+                "id": 3,
+                "title": "POR QUE ADR?",
+                "link": "qualities"
+            },
+            {
+                "id": 4,
+                "title": "EQUIPE",
+                "link": "team"
+            },
+            {
+                "id": 5,
+                "title": "ALUGUER",
+                "link": "reservation"
+            }
+        ]
+    
+    } 
+    ]
+}
